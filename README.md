@@ -14,6 +14,12 @@ long... gasps.. for breath 😲
 - Design & Build Case Studies: *System Design case studies, and later simple builds for each case* - ((coming soon 😅))
 - Quotes App Barrage: *Building different versions of a Quotes application using different patterns and stacks*
   - [Simplest .NET Minimal Api](https://github.com/ScottGarberJr/quotesapi-dotnet-mini)
+  - .NET Minimal Api with persistant database **((next))**
+  - Flask Api
+  - Django Api
+  - Node/Express Api
+  - make a decoupled web frontend that calls an api
+  - make a Xamarin or Maui app that calls an api
 - DoinStuff Blog: *A place for my friends and I to write and share content, our way and on our terms.* - ((currently not public 🥸))
 - Invoice Generator: *make pdf invoices from uploaded spreadsheet, built in Python* - ((back burner))
 
