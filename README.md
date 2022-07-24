@@ -15,6 +15,7 @@ long... gasps.. for breath 😲
 - Quotes App Barrage: *Building different versions of a Quotes application using different patterns and stacks*
   - [Simplest .NET Minimal Api](https://github.com/ScottGarberJr/quotesapi-dotnet-mini)
   - .NET Minimal Api with persistant database **((next))**
+  - .Net Core MVC Controller Api
   - Flask Api
   - Django Api
   - Node/Express Api
