@@ -30,7 +30,7 @@ long... gasps.. for breath 😲
 ## 😍 My Quick Links 😍
 Things I go back to that you might be interested in
 - [Github Markdown Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#supported-color-models)
-- 
+- [Http Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 ## 🥳 Message me 🥳 
 - **Discord:** _TheHiccups#3755_
