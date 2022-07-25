@@ -33,6 +33,7 @@ Things I go back to that you might be interested in
 - [Http Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 ## 🥳 Message me 🥳 
+- **LinkedIn:** [Scott Garber](https://linkedin.com/in/scottgarberjr)
 - **Discord:** _TheHiccups#3755_
 - **Twitter:** @1scottgarberjr
 - **WeChat:** 
