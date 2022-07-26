@@ -14,7 +14,7 @@ long... gasps.. for breath 😲
 - Design & Build Case Studies: *System Design case studies, and later simple builds for each case* - ((coming soon 😅))
 - Quotes App Barrage: *Building different versions of a Quotes application using different patterns and stacks*
   - [Simplest .NET Minimal Api](https://github.com/ScottGarberJr/quotesapi-dotnet-mini)
-  - .NET Minimal Api with persistant database, validation, search quotes, etc **((next))**
+  - [.NET Minimal Api with persistant database, validation, search quotes, etc](https://github.com/ScottGarberJr/quotesapi-dotnet-mini2) **((next))**
   - .Net Core MVC Controller Api
   - Flask Api
   - Django Api
