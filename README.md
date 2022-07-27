@@ -1,5 +1,7 @@
 ## 👋 Hi there 👋
 I'm Scott G, and I'm an application developer, father, consultant, coach, writer, and student. **I love creating things**, and look to always be building great things with great people. My favorite conversations are those about someone's goals & ideas and how they are pursing them. 
+
+**About Me:**
 - I code a lot in C#, Python, and Javascript. Django + Vue.js + MySQL is my favorite web stack that I wish I was better at, but I've been working in everything .NET most recently and love it, too :D 
 - I'm actively studying Cloud Development (mainly within Azure) and System Design.
 - I enjoy using lightweight editors (VScode and SublimeText), Docker + Azure Data Studio, Postman, Draw.io, Figma, Trello, and Discord. And Unity but I'm terrible 😅
