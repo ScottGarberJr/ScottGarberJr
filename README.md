@@ -8,7 +8,7 @@ I'm Scott G, and I'm an application developer, father, consultant, coach, writer
 - I have two sons; I like game design and learning languages; I exercise a lot; my three favorite games are Gunz:theDuel, SmashBros, and Chess.
 
 ```
-long... gasps.. for breath 😲
+Creation > Consumption
 ```
 
 ## 🤩 Projects 🤩
