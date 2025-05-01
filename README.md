@@ -30,6 +30,7 @@ Creation > Consumption
 Things I go back to that you might be interested in
 - [Github Markdown Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#supported-color-models)
 - [Vue docs](https://vuejs.org/guide/quick-start.html)
+- [Nuxt docs](https://nuxt.com/docs/getting-started/introduction)
 - [Capacitor docs](https://capacitorjs.com/docs/v2)
 - [Ionic Vue docs](https://ionicframework.com/docs/vue/quickstart)
 - [Apple's Design Resources](https://developer.apple.com/design/resources/#sf-symbols)
