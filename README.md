@@ -28,6 +28,7 @@ Creation > Consumption
 
 ## 😍 My Quick Links 😍
 Things I go back to that you might be interested in
+- [Awesome Strapi Resources](https://github.com/strapi-community/awesome-strapi)
 - [Github Markdown Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#supported-color-models)
 - [Vue docs](https://vuejs.org/guide/quick-start.html)
 - [Nuxt docs](https://nuxt.com/docs/getting-started/introduction)
