@@ -2,7 +2,7 @@
 I'm Scott, and I'm an application developer, father, consultant, coach, writer, and student. **I love creating things**, and look to always be building great things with great people. My favorite conversations are those about someone's goals & ideas and how they are pursuing them. 
 
 **About Me:**
-- I like building apps and sites with Nuxt/Vue/Ionic with whatever backend seems appropriate (FastAPI, Flask, Strapi, and Express are some go-tos). My personal goal is to release my own solo app to iOS early 2026, and will keep this updated!
+- I like building apps and sites with Nuxt/Vue/Ionic with whatever backend seems appropriate (FastAPI, Flask, Strapi, and Express are some go-tos). My personal goal is to release my first solo app to mobile app stores early 2026, and will keep this updated!
 - I enjoy using lightweight editors (VScode and SublimeText), Figma, Docker, Trello or OneNote, and Discord or Teams. And Unity but I'm terrible 😅
 - Professionally, I work with a lot of Microsoft products like Power Platform (Apps, Pages, Automate, BI, Dataverse), Copilot Studio, Azure Cloud, Azure DevOps, SharePoint, Project Server, SSMS, Azure Data Studio, SSRS, Outlook, OneNote, Teams, Excel
 - Rapid-fire personals: I have two sons and we like to draw pokemon, exercise, wrestle, and be outside; I like studying app/game design and learning languages (focused on improving in Mandarin, Spanish, and English, with Russian on my wishlist); I exercise a lot; my three favorite video games are Gunz:theDuel, SmashBros, and Chess.
