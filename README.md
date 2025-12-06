@@ -27,7 +27,7 @@ Creation > Consumption
 
 ### Projects currently working on with others:
 - *A suite of tools to help resellers improve and track their business
-- *A webapp that pulls in sports data and uses different LLMs to discuss with the yser what betting odds stand out when compared to the data
+- *A webapp that pulls in sports data and uses different LLMs to discuss with the user what betting odds stand out when compared to the data
 
 ## 😍 My Quick Links 😍
 Things I go back to that you might be interested in
