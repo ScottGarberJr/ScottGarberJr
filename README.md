@@ -11,12 +11,7 @@ I'm Scott, and I'm an application developer, father, consultant, coach, writer, 
 Creation > Consumption
 ```
 
-## 🤩 Projects 🤩
-### Personal projects and ideas I'm working on solo:
-- Building mobile app ideas using Vue + Ionic/Capacitor. This is my main focus for 2026 🤩
-- Two blogs: my wife and I want to build more of an online presence and better form our thoughts/knowledge into something
-
-## 😍 My Quick Links 😍
+## 🤩 My Quick Links 🤩
 Things I go back to that you might be interested in
 - [Awesome Strapi Resources](https://github.com/strapi-community/awesome-strapi)
 - [Github Markdown Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#supported-color-models)
