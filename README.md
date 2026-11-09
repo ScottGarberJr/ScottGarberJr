@@ -3,7 +3,8 @@ I'm Scott, and I'm an application developer, father, consultant, coach, writer, 
 
 **About Me:**
 - I like building apps and sites with Nuxt/Vue/Ionic with whatever backend seems appropriate (FastAPI, Flask, Strapi, and Express are some go-tos). 
-- I enjoy using lightweight editors (VScode and SublimeText), Figma, Docker, Trello or OneNote, and Discord or Teams. 
+- I enjoy using Figma, Obsidian and OneNote, Trello, Discord or Teams, and lightweight editors (VScode and SublimeText). I deploy sites and other projects using Docker and Coolify on a VPS.
+- I use Hermes and Discord to communicate with non-coding agents and Pi on Herdr when coding. GPT and local Qwen models
 - Professionally, I work with a lot of Microsoft products like Power Platform (Apps, Pages, Automate, BI, Dataverse), Copilot Studio, Azure Cloud, Azure DevOps, SharePoint, Project Server, SSMS, Azure Data Studio, SSRS, Outlook, OneNote, Teams, Excel
 - Rapid-fire personals: I have two sons and we like to draw pokemon, exercise, wrestle, and be outside; I like studying app/game design and learning languages like Mandarin and Spanish (Russian on my wishlist); I exercise a lot; my three favorite video games are still probably Gunz:theDuel, SmashBros, and GuildWars2
 
